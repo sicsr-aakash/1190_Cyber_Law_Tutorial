@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+    tools:context="com.example.cyberlawtabletguide.HomePage" >
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="190dp"
+        android:adjustViewBounds="true"
+        android:src="@drawable/law" />
+   
+<Button
+        android:id="@+id/laws"
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/roundbutton"
+        android:text="LAWS"
+        android:textSize="50sp"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/keynotes"
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:textColor="#FFFFFF"
+        android:textSize="50sp"
+        android:text="KEY NOTES"
+        android:background="@drawable/roundbutton" />
+
+    <Button
+        android:id="@+id/videos"
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/roundbutton"
+        android:layout_gravity="center"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="20dp"
+        android:textSize="50sp"
+        android:text="VIDEOS" />
+
+    <Button
+        android:id="@+id/quiz"
+        android:layout_width="500dp"
+        android:background="@drawable/roundbutton"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:textColor="#FFFFFF"
+        android:layout_height="wrap_content"
+        android:textSize="50sp"
+        android:text="INSTANT QUIZ :)" />
+    
+</LinearLayout>

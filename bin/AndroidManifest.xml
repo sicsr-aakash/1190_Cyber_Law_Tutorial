@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.cyberlawtabletguide"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="21" />
+        <uses-permission android:name="android.permission.INTERNET" />
+    
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" 
+         android:hardwareAccelerated="true">
+        <activity
+            android:name=".HomePage"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Laws"
+            android:label="@string/title_activity_laws"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".KeyNotes"
+            android:label="@string/title_activity_key_notes"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Quiz"
+            android:label="@string/title_activity_quiz"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".SplashScreen"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Chp1"
+            android:label="@string/title_activity_laws"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Chp2"
+            android:label="@string/title_activity_laws"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Chp3"
+            android:label="@string/title_activity_laws"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Chp4"
+            android:label="@string/title_activity_laws"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Chp5"
+            android:label="@string/title_activity_laws"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Chp6"
+            android:label="@string/title_activity_laws"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Chp7"
+            android:label="@string/title_activity_laws"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Chp8"
+            android:label="@string/title_activity_laws"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Chp9"
+            android:label="@string/title_activity_laws"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Chp10"
+            android:label="@string/title_activity_laws"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Chp11"
+            android:label="@string/title_activity_laws"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Chp12"
+            android:label="@string/title_activity_laws"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Chp13"
+            android:label="@string/title_activity_laws"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Topic1"
+            android:label="@string/title_activity_key_notes" >
+        </activity>
+        <activity
+            android:name=".Topic2"
+            android:label="@string/title_activity_key_notes" >
+        </activity>
+        <activity
+            android:name=".Topic3"
+            android:label="@string/title_activity_key_notes" >
+        </activity>
+        <activity
+            android:name=".Topic4"
+            android:label="@string/title_activity_key_notes" >
+        </activity>
+        <activity
+            android:name=".Topic5"
+            android:label="@string/title_activity_key_notes" >
+        </activity>
+        <activity
+            android:name=".Videos"
+            android:label="@string/title_activity_videos" >
+        </activity>
+    </application>
+
+</manifest>

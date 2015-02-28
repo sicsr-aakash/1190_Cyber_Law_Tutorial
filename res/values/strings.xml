@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cyber Law Guide</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_laws">Laws</string>
+    <string name="title_activity_key_notes">Important Notes for Revision</string>
+    <string name="title_activity_quiz">Instant Quiz</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_chp1">Chp1</string>
+    <string name="title_activity_chp2">Chp2</string>
+    <string name="title_activity_chp3">Chp3</string>
+    <string name="title_activity_chp4">Chp4</string>
+    <string name="title_activity_chp5">Chp5</string>
+    <string name="title_activity_chp6">Chp6</string>
+    <string name="title_activity_chp7">Chp7</string>
+    <string name="title_activity_chp8">Chp8</string>
+    <string name="title_activity_chp9">Chp9</string>
+    <string name="title_activity_chp10">Chp10</string>
+    <string name="title_activity_chp11">Chp11</string>
+    <string name="title_activity_chp12">Chp12</string>
+    <string name="title_activity_chp13">Chp13</string>
+    <string name="title_activity_topic1">Topic1</string>
+    <string name="title_activity_topic2">Topic2</string>
+    <string name="title_activity_topic3">Topic3</string>
+    <string name="title_activity_topic4">Topic4</string>
+    <string name="title_activity_topic5">Topic5</string>
+    <string name="title_activity_videos">Videos</string>
+
+</resources>
