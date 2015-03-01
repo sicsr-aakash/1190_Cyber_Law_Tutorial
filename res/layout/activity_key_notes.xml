@@ -1,5 +1,6 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+<<<<<<< HEAD
     android:layout_width="match_parent"
     android:layout_gravity="center"
     android:layout_height="fill_parent"
@@ -18,6 +19,22 @@
     <ImageView
         android:id="@+id/imageView2"
         android:layout_width="fill_parent"
+=======
+    android:layout_width="fill_parent"
+    android:id="@+id/scrolls"
+    android:layout_height="fill_parent" >
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg"
+    
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
         android:layout_height="wrap_content"
         android:adjustViewBounds="true"
         android:layout_gravity="right"
@@ -25,7 +42,11 @@
         android:src="@drawable/law" />
 
 <LinearLayout
+<<<<<<< HEAD
     android:layout_width="fill_parent"
+=======
+    android:layout_width="match_parent"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
     android:layout_height="wrap_content"
     android:gravity="center"
     android:orientation="horizontal" >
@@ -59,7 +80,11 @@
         android:layout_marginTop="20dp"
         android:background="@drawable/roundbutton"
         android:drawableRight="@drawable/arrow"
+<<<<<<< HEAD
         android:text="TOPIC 1: NEED OF CYBER LAW IN INDIA"
+=======
+        android:text="TOPIC 1:"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
         android:textColor="#FFFFFF"
         android:textSize="20sp" />
 
@@ -71,7 +96,11 @@
         android:layout_marginTop="1dp"
         android:background="@drawable/roundbutton"
         android:drawableRight="@drawable/arrow"
+<<<<<<< HEAD
         android:text="TOPIC 2: IMPORTANCE OF CYBER LAW"
+=======
+        android:text="TOPIC 2:"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
         android:textColor="#FFFFFF"
         android:textSize="20sp" />
 
@@ -83,7 +112,11 @@
         android:layout_marginTop="1dp"
         android:background="@drawable/roundbutton"
         android:drawableRight="@drawable/arrow"
+<<<<<<< HEAD
         android:text="TOPIC 3: HOW DOES CYBER LAW CONCERN ME?"
+=======
+        android:text="TOPIC 3:"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
         android:textColor="#FFFFFF"
         android:textSize="20sp" />
 
@@ -95,11 +128,29 @@
         android:layout_marginTop="1dp"
         android:background="@drawable/roundbutton"
         android:drawableRight="@drawable/arrow"
+<<<<<<< HEAD
         android:text="TOPIC 4: ADVANTAGES OF CYBER LAW"
         android:textColor="#FFFFFF"
         android:textSize="20sp" />
 
     
+=======
+        android:text="TOPIC 4:"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/Top5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="1dp"
+        android:background="@drawable/roundbutton"
+        android:drawableRight="@drawable/arrow"
+        android:text="TOPIC 5:"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp" />
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
 
    
 </LinearLayout>

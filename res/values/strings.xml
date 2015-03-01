@@ -4,8 +4,15 @@
     <string name="app_name">Cyber Law Guide</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+<<<<<<< HEAD
     <string name="title_activity_laws">IT ACT 2000: Laws</string>
     <string name="title_activity_key_notes">Important Notes to Revise</string>
+=======
+    <string name="title_activity_laws">Laws</string>
+    <string name="title_activity_key_notes">Important Notes for Revision</string>
+    <string name="title_activity_quiz">Instant Quiz</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
     <string name="title_activity_chp1">Chp1</string>
     <string name="title_activity_chp2">Chp2</string>
     <string name="title_activity_chp3">Chp3</string>
@@ -19,13 +26,20 @@
     <string name="title_activity_chp11">Chp11</string>
     <string name="title_activity_chp12">Chp12</string>
     <string name="title_activity_chp13">Chp13</string>
+<<<<<<< HEAD
     <string name="title_activity_splash_screen">SplashScreen</string>
+=======
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
     <string name="title_activity_topic1">Topic1</string>
     <string name="title_activity_topic2">Topic2</string>
     <string name="title_activity_topic3">Topic3</string>
     <string name="title_activity_topic4">Topic4</string>
     <string name="title_activity_topic5">Topic5</string>
+<<<<<<< HEAD
     <string name="title_activity_chp12a">Chp12a</string>
     <string name="title_activity_quiz">Quiz</string>
+=======
+    <string name="title_activity_videos">Videos</string>
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
 
 </resources>

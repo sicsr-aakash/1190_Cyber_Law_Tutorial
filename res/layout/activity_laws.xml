@@ -2,26 +2,42 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="fill_parent"
     android:id="@+id/scrolls"
+<<<<<<< HEAD
     android:fillViewport="true"
     android:layout_height="fill_parent" >
 
 <LinearLayout
     android:layout_width="fill_parent"
+=======
+    android:layout_height="fill_parent" >
+
+<LinearLayout
+    android:layout_width="match_parent"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
     android:layout_height="wrap_content"
     android:background="@drawable/bg"
     android:gravity="center"
     android:orientation="vertical" >
 <ImageView
         android:id="@+id/imageView2"
+<<<<<<< HEAD
         android:layout_width="fill_parent"
+=======
+        android:layout_width="wrap_content"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
         android:layout_height="150dp"
         android:adjustViewBounds="true"
         android:src="@drawable/law" />
 
     <ImageView
         android:id="@+id/imageView1"
+<<<<<<< HEAD
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
+=======
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
         android:layout_weight="0.07"
         android:adjustViewBounds="true"
         android:src="@drawable/icon_launcher" />
@@ -45,7 +61,11 @@
         android:layout_marginTop="20dp"
         android:background="@drawable/roundbutton"
         android:drawableRight="@drawable/arrow"
+<<<<<<< HEAD
         android:text="CHAPTER 1: PRELIMINARY "
+=======
+        android:text="CHAPTER 1:"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
         android:textColor="#FFFFFF"
         android:textSize="20sp" />
 
@@ -57,7 +77,11 @@
         android:layout_marginTop="1dp"
         android:background="@drawable/roundbutton"
         android:drawableRight="@drawable/arrow"
+<<<<<<< HEAD
         android:text="CHAPTER 2: DIGITAL SIGNATURE AND ELECTRONIC SIGNATURE"
+=======
+        android:text="CHAPTER 2:"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
         android:textColor="#FFFFFF"
         android:textSize="20sp" />
 
@@ -69,7 +93,11 @@
         android:layout_marginTop="1dp"
         android:background="@drawable/roundbutton"
         android:drawableRight="@drawable/arrow"
+<<<<<<< HEAD
         android:text="CHAPTER 3: ELECTRONIC GOVERNANCE"
+=======
+        android:text="CHAPTER 3:"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
         android:textColor="#FFFFFF"
         android:textSize="20sp" />
 
@@ -81,7 +109,11 @@
         android:layout_marginTop="1dp"
         android:background="@drawable/roundbutton"
         android:drawableRight="@drawable/arrow"
+<<<<<<< HEAD
         android:text="CHAPTER 4: ATTRIBUTION, ACKNOWLEDGEMENT AND DISPATCH OF ELECTRONIC RECORDS"
+=======
+        android:text="CHAPTER 4:"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
         android:textColor="#FFFFFF"
         android:textSize="20sp" />
 
@@ -93,7 +125,11 @@
         android:layout_marginTop="1dp"
         android:background="@drawable/roundbutton"
         android:drawableRight="@drawable/arrow"
+<<<<<<< HEAD
         android:text="CHAPTER 5: SECURE ELECTRONIC RECORDS AND SECURE ELECTRONIC SIGNATURES"
+=======
+        android:text="CHAPTER 5:"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
         android:textColor="#FFFFFF"
         android:textSize="20sp" />
 
@@ -105,8 +141,12 @@
         android:layout_marginTop="1dp"
         android:background="@drawable/roundbutton"
         android:drawableRight="@drawable/arrow"
+<<<<<<< HEAD
         android:drawablePadding="3dp"
         android:text="CHAPTER 6: REGULATIONS OF CERTIFYING AUTHORITIES "
+=======
+        android:text="CHAPTER 6:"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
         android:textColor="#FFFFFF"
         android:textSize="20sp" />
 
@@ -118,7 +158,11 @@
         android:layout_marginTop="1dp"
         android:background="@drawable/roundbutton"
         android:drawableRight="@drawable/arrow"
+<<<<<<< HEAD
         android:text="CHAPTER 7: ELECTRONIC SIGNATURE CERTIFICATES"
+=======
+        android:text="CHAPTER 7:"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
         android:textColor="#FFFFFF"
         android:textSize="20sp" />
 
@@ -130,7 +174,11 @@
         android:layout_marginTop="1dp"
         android:background="@drawable/roundbutton"
         android:drawableRight="@drawable/arrow"
+<<<<<<< HEAD
         android:text="CHAPTER 8: DUTIES OF SUBSCRIBERS"
+=======
+        android:text="CHAPTER 8:"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
         android:textColor="#FFFFFF"
         android:textSize="20sp" />
 
@@ -142,7 +190,11 @@
         android:layout_marginTop="1dp"
         android:background="@drawable/roundbutton"
         android:drawableRight="@drawable/arrow"
+<<<<<<< HEAD
         android:text="CHAPTER 9: PENALTIES, COMPENSATION AND ADJUDICATION"
+=======
+        android:text="CHAPTER 9:"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
         android:textColor="#FFFFFF"
         android:textSize="20sp" />
 
@@ -154,7 +206,11 @@
         android:layout_marginTop="1dp"
         android:background="@drawable/roundbutton"
         android:drawableRight="@drawable/arrow"
+<<<<<<< HEAD
         android:text="CHAPTER 10: THE CYBER APPELLATE TRIBUNAL"
+=======
+        android:text="CHAPTER 10:"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
         android:textColor="#FFFFFF"
         android:textSize="20sp" />
 
@@ -165,9 +221,15 @@
         android:layout_gravity="center"
         android:layout_marginTop="1dp"
         android:background="@drawable/roundbutton"
+<<<<<<< HEAD
         android:textColor="#FFFFFF"
         android:drawableRight="@drawable/arrow"
         android:text="CHAPTER 11: OFFENSES"
+=======
+        android:drawableRight="@drawable/arrow"
+        android:text="CHAPTER 11:"
+        android:textColor="#FFFFFF"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
         android:textSize="20sp" />
 
     <Button
@@ -178,6 +240,7 @@
         android:layout_marginTop="1dp"
         android:background="@drawable/roundbutton"
         android:drawableRight="@drawable/arrow"
+<<<<<<< HEAD
         android:text="CHAPTER 12: INTERMEDIARIES"
         android:textColor="#FFFFFF"
         android:textSize="20sp" />
@@ -191,6 +254,9 @@
         android:background="@drawable/roundbutton"
         android:drawableRight="@drawable/arrow"
         android:text="CHAPTER 12A: EXAMINER OF ELECTRONIC EVIDENCE"
+=======
+        android:text="CHAPTER 12:"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
         android:textColor="#FFFFFF"
         android:textSize="20sp" />
 
@@ -202,7 +268,11 @@
         android:layout_marginTop="1dp"
         android:background="@drawable/roundbutton"
         android:drawableRight="@drawable/arrow"
+<<<<<<< HEAD
         android:text="CHAPTER 13: MISCELLANEOUS "
+=======
+        android:text="CHAPTER 13:"
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
         android:textColor="#FFFFFF"
         android:textSize="20sp" />
 </LinearLayout>

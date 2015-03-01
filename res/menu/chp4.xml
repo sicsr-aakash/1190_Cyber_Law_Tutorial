@@ -1,6 +1,10 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+<<<<<<< HEAD
     tools:context="com.example.mtproject_cyberlaw.Chp4" >
+=======
+    tools:context="com.example.cyberlawtabletguide.Chp4" >
+>>>>>>> b68bb1a701924eb88f013b6d51594cfcf9a93995
 
     <item
         android:id="@+id/action_settings"
