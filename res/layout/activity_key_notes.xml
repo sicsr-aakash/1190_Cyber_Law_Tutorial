@@ -1,0 +1,107 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_gravity="center"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+    
+         
+        
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:layout_gravity="right"
+        android:layout_margin="5dp"
+        android:src="@drawable/law" />
+
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="0dp"
+        android:layout_height="222dp"
+        android:layout_gravity="right"
+        android:layout_weight="0.07"
+        android:adjustViewBounds="true"
+        android:src="@drawable/icon_launcher" />
+</LinearLayout>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="10dp"
+        android:text="IT ACT 2000 - Cyber Law - Important Topics to Revise"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/Top1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/roundbutton"
+        android:drawableRight="@drawable/arrow"
+        android:text="TOPIC 1: NEED OF CYBER LAW IN INDIA"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/Top2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="1dp"
+        android:background="@drawable/roundbutton"
+        android:drawableRight="@drawable/arrow"
+        android:text="TOPIC 2: IMPORTANCE OF CYBER LAW"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/Top3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="1dp"
+        android:background="@drawable/roundbutton"
+        android:drawableRight="@drawable/arrow"
+        android:text="TOPIC 3: HOW DOES CYBER LAW CONCERN ME?"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/Top4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="1dp"
+        android:background="@drawable/roundbutton"
+        android:drawableRight="@drawable/arrow"
+        android:text="TOPIC 4: ADVANTAGES OF CYBER LAW"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp" />
+
+    
+
+   
+</LinearLayout>
+
+</ScrollView>
